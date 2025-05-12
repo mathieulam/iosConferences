@@ -85,6 +85,18 @@
       "url": "https://swiftcraft.uk"
     },
     {
+      "image": "https://via.placeholder.com/150?text=WWDC2025",
+      "name": "WWDC 2025",
+      "description": "Apple's Worldwide Developers Conference, showcasing the latest in iOS, iPadOS, macOS, watchOS, and more, with keynotes, sessions, and hands-on labs.",
+      "dates": "9 - 13 June 2025",
+      "address": "Apple Park, 1 Apple Park Way, Cupertino, CA 95014, USA",
+      "location": {
+        "latitude": 37.3349,
+        "longitude": -122.0090
+      },
+      "url": "https://developer.apple.com/wwdc25/"
+    },
+    {
       "image": "https://via.placeholder.com/150?text=mDevCamp",
       "name": "mDevCamp",
       "description": "A mobile development conference powered by Futured, covering iOS and broader mobile trends, with brilliant speakers and a great location in Prague.",
