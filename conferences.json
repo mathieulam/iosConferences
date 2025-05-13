@@ -4,7 +4,8 @@
       "image": "https://via.placeholder.com/150?text=ARCticConference",
       "name": "Arctic Conference",
       "description": "The world's northernmost Apple developers' conference with one day of workshops, two days of tech talks, sauna, ice swimming, northern lights, and drinks to connect with professionals, organized by Jesse Sipola.",
-      "dates": "11 - 13 March 2025",
+      "startDate": "2025-03-11T00:00:00Z",
+      "endDate": "2025-03-13T23:59:59Z",
       "addressShort": "Oulu, Finland",
       "addressFull": "Theatre Rio, Kauppurienkatu 10, 90100 Oulu, Finland",
       "location": {
@@ -17,7 +18,8 @@
       "image": "https://via.placeholder.com/150?text=AppDevCon",
       "name": "AppDevCon",
       "description": "A conference for app developers, by app developers, organized by egeniq, featuring talks on mobile development including iOS.",
-      "dates": "18 - 21 March 2025",
+      "startDate": "2025-03-18T00:00:00Z",
+      "endDate": "2025-03-21T23:59:59Z",
       "addressShort": "Amsterdam, Netherlands",
       "addressFull": "Pathé City, Kleine-Gartmanplantsoen 15-19, 1017 RP Amsterdam, Netherlands",
       "location": {
@@ -30,7 +32,8 @@
       "image": "https://via.placeholder.com/150?text=SwiftHeroes",
       "name": "SwiftHeroes",
       "description": "A hybrid online and in-person event in Turin, Italy, focusing on Swift development with talks on advanced Swift techniques and networking opportunities.",
-      "dates": "8 - 9 April 2025",
+      "startDate": "2025-04-08T00:00:00Z",
+      "endDate": "2025-04-09T23:59:59Z",
       "addressShort": "Turin, Italy",
       "addressFull": "Lingotto Conference Centre, Via Nizza 280, 10126 Turin, Italy",
       "location": {
@@ -43,7 +46,8 @@
       "image": "https://via.placeholder.com/150?text=trySwiftTokyo",
       "name": "try! Swift Tokyo",
       "description": "A 2-day conference with a one-day workshop, focusing on AI and Swift/iOS development, bringing together global developers in Tokyo.",
-      "dates": "9 - 11 April 2025",
+      "startDate": "2025-04-09T00:00:00Z",
+      "endDate": "2025-04-11T23:59:59Z",
       "addressShort": "Tokyo, Japan",
       "addressFull": "Bellesalle Shibuya First, 1-2-20 Higashi, Shibuya-ku, Tokyo 150-0011, Japan",
       "location": {
@@ -56,7 +60,8 @@
       "image": "https://via.placeholder.com/150?text=DeepDishSwift",
       "name": "Deep Dish Swift",
       "description": "Chicago’s premier Swift developer conference, organized by Josh Holtz, featuring indie talks, Swift/iOS sessions, live podcasts, and performances.",
-      "dates": "27 - 29 April 2025",
+      "startDate": "2025-04-27T00:00:00Z",
+      "endDate": "2025-04-29T23:59:59Z",
       "addressShort": "Rosemont, USA",
       "addressFull": "Loews Chicago O’Hare Hotel, 5300 N River Rd, Rosemont, IL 60018, USA",
       "location": {
@@ -69,7 +74,8 @@
       "image": "https://via.placeholder.com/150?text=iOSKonf",
       "name": "iOSKONF",
       "description": "The only iOS conference in Macedonia, organized by Monika and her team, featuring talks and workshops on iOS development.",
-      "dates": "14 - 15 May 2025",
+      "startDate": "2025-05-14T00:00:00Z",
+      "endDate": "2025-05-15T23:59:59Z",
       "addressShort": "Skopje, North Macedonia",
       "addressFull": "Skopje Marriott Hotel, Plostad Makedonija 7, Skopje 1000, North Macedonia",
       "location": {
@@ -82,7 +88,8 @@
       "image": "https://via.placeholder.com/150?text=SwiftCraft",
       "name": "SwiftCraft",
       "description": "A Swift developers conference in Folkestone, UK, focusing on Swift code craftsmanship, organized by Phil Nash, set in a theater by the English Channel.",
-      "dates": "20 - 21 May 2025",
+      "startDate": "2025-05-20T00:00:00Z",
+      "endDate": "2025-05-21T23:59:59Z",
       "addressShort": "Folkestone, United Kingdom",
       "addressFull": "Quarterhouse, 49 Tontine St, Folkestone CT20 1BN, United Kingdom",
       "location": {
@@ -95,7 +102,8 @@
       "image": "https://via.placeholder.com/150?text=WWDC2025",
       "name": "WWDC 2025",
       "description": "Apple's Worldwide Developers Conference, showcasing the latest in iOS, iPadOS, macOS, watchOS, and more, with keynotes, sessions, and hands-on labs.",
-      "dates": "9 - 13 June 2025",
+      "startDate": "2025-06-09T00:00:00Z",
+      "endDate": "2025-06-13T23:59:59Z",
       "addressShort": "Cupertino, USA",
       "addressFull": "Apple Park, 1 Apple Park Way, Cupertino, CA 95014, USA",
       "location": {
@@ -108,7 +116,8 @@
       "image": "https://via.placeholder.com/150?text=mDevCamp",
       "name": "mDevCamp",
       "description": "A mobile development conference powered by Futured, covering iOS and broader mobile trends, with brilliant speakers and a great location in Prague.",
-      "dates": "2 - 3 June 2025",
+      "startDate": "2025-06-02T00:00:00Z",
+      "endDate": "2025-06-03T23:59:59Z",
       "addressShort": "Prague, Czech Republic",
       "addressFull": "Prague, Czech Republic (Venue TBD)",
       "location": {
@@ -121,7 +130,8 @@
       "image": "https://via.placeholder.com/150?text=AppsConfX",
       "name": "AppsConf X",
       "description": "Russia’s only mobile developer conference, conducted in Russian, focusing on the latest trends in mobile development including iOS.",
-      "dates": "3 June 2025",
+      "startDate": "2025-06-03T00:00:00Z",
+      "endDate": "2025-06-03T23:59:59Z",
       "addressShort": "Moscow, Russia",
       "addressFull": "Moscow, Russia (Venue TBD)",
       "location": {
@@ -134,7 +144,8 @@
       "image": "https://via.placeholder.com/150?text=SwiftConnection",
       "name": "Swift Connection",
       "description": "A Paris-based conference, previously known as FrenchKit, dedicated to Swift, iOS, macOS, and Apple ecosystems.",
-      "dates": "6 - 7 October 2025",
+      "startDate": "2025-10-06T00:00:00Z",
+      "endDate": "2025-10-07T23:59:59Z",
       "addressShort": "Paris, France",
       "addressFull": "Théâtre de Paris, 15 Rue Blanche, 75009 Paris, France",
       "location": {
@@ -147,7 +158,8 @@
       "image": "https://via.placeholder.com/150?text=SwiftLeeds",
       "name": "SwiftLeeds",
       "description": "A non-profit iOS conference in Leeds, UK, organized by Adam Rush and team, featuring talks, an evening talk show, and new themes.",
-      "dates": "7 - 8 October 2025",
+      "startDate": "2025-10-07T00:00:00Z",
+      "endDate": "2025-10-08T23:59:59Z",
       "addressShort": "Leeds, United Kingdom",
       "addressFull": "Leeds Playhouse, Playhouse Square, Quarry Hill, Leeds LS2 7UP, United Kingdom",
       "location": {
@@ -160,7 +172,8 @@
       "image": "https://via.placeholder.com/150?text=PragmaConf",
       "name": "PragmaConf",
       "description": "Italy’s first international conference dedicated to iOS, macOS, watchOS, visionOS, and tvOS development, organized by #pragma-mark, a non-profit association.",
-      "dates": "30 - 31 October 2025",
+      "startDate": "2025-10-30T00:00:00Z",
+      "endDate": "2025-10-31T23:59:59Z",
       "addressShort": "Bologna, Italy",
       "addressFull": "Bologna, Italy (Venue TBD)",
       "location": {
@@ -173,7 +186,8 @@
       "image": "https://via.placeholder.com/150?text=iOSConfSG",
       "name": "iOS Conf SG",
       "description": "A community-voted top iOS developer conference in Singapore, featuring talks and workshops on iOS and Swift development.",
-      "dates": "15 - 17 January 2025",
+      "startDate": "2025-01-15T00:00:00Z",
+      "endDate": "2025-01-17T23:59:59Z",
       "addressShort": "Singapore, Singapore",
       "addressFull": "Suntec Singapore Convention & Exhibition Centre, 1 Raffles Boulevard, Singapore 039593",
       "location": {
@@ -186,7 +200,8 @@
       "image": "https://via.placeholder.com/150?text=LetsVisionOS",
       "name": "Let's visionOS 2024",
       "description": "A conference with invited speakers from around the world, focusing on visionOS, XR products, design, and development.",
-      "dates": "30 - 31 March 2024",
+      "startDate": "2024-03-30T00:00:00Z",
+      "endDate": "2024-03-31T23:59:59Z",
       "addressShort": "Beijing, China",
       "addressFull": "Beijing, China (Venue TBD)",
       "location": {
@@ -199,7 +214,8 @@
       "image": "https://via.placeholder.com/150?text=vOSConf",
       "name": "vOS Conf",
       "description": "A 2-day conference mainly about visionOS and SwiftUI, with an ethical focus, organized by Manu.",
-      "dates": "15 - 16 April 2024",
+      "startDate": "2024-04-15T00:00:00Z",
+      "endDate": "2024-04-16T23:59:59Z",
       "addressShort": "Düren, Germany",
       "addressFull": "Düren, Germany (Venue TBD)",
       "location": {
@@ -212,7 +228,8 @@
       "image": "https://via.placeholder.com/150?text=OneMoreThing",
       "name": "One More Thing",
       "description": "A community-run conference near WWDC, featuring talks, workshops, WWDC-labs-inspired experiences, and events by Paul Hudson and James Dempsey.",
-      "dates": "10 - 14 June 2024",
+      "startDate": "2024-06-10T00:00:00Z",
+      "endDate": "2024-06-14T23:59:59Z",
       "addressShort": "Cupertino, USA",
       "addressFull": "Cupertino, California, USA (Venue TBD)",
       "location": {
@@ -225,7 +242,8 @@
       "image": "https://via.placeholder.com/150?text=MobilisInMobile",
       "name": "Mobilis in Mobile",
       "description": "A gathering of mobile communities in France, featuring a day of talks on mobile technologies, design, and marketing, not restricted to iOS.",
-      "dates": "18 June 2024",
+      "startDate": "2024-06-18T00:00:00Z",
+      "endDate": "2024-06-18T23:59:59Z",
       "addressShort": "Nantes, France",
       "addressFull": "Nantes, France (Venue TBD)",
       "location": {
@@ -238,7 +256,8 @@
       "image": "https://via.placeholder.com/150?text=SwiftIsland",
       "name": "Swift Island",
       "description": "An all-inclusive experimental conference post-WWDC, held on Texel, a UNESCO World Heritage island, focusing on Swift and iOS development.",
-      "dates": "27 - 29 August 2024",
+      "startDate": "2024-08-27T00:00:00Z",
+      "endDate": "2024-08-29T23:59:59Z",
       "addressShort": "Texel, Netherlands",
       "addressFull": "Texel, Netherlands (Venue TBD)",
       "location": {
@@ -251,7 +270,8 @@
       "image": "https://via.placeholder.com/150?text=iOSDevUK",
       "name": "iOSDevUK",
       "description": "A major iOS developer conference in Aberystwyth, Wales, connecting developers worldwide with talks and networking.",
-      "dates": "2 - 5 September 2024",
+      "startDate": "2024-09-02T00:00:00Z",
+      "endDate": "2024-09-05T23:59:59Z",
       "addressShort": "Aberystwyth, United Kingdom",
       "addressFull": "Aberystwyth University, Penglais Campus, Aberystwyth SY23 3FL, United Kingdom",
       "location": {
@@ -264,7 +284,8 @@
       "image": "https://via.placeholder.com/150?text=NSSpain",
       "name": "NSSpain",
       "description": "Europe’s longest-running Apple developer conference, focusing on iOS, Swift, and macOS, with talks and workshops in Logroño.",
-      "dates": "18 - 19 September 2024",
+      "startDate": "2024-09-18T00:00:00Z",
+      "endDate": "2024-09-19T23:59:59Z",
       "addressShort": "Logroño, Spain",
       "addressFull": "Logroño, Spain (Venue TBD)",
       "location": {
@@ -277,7 +298,8 @@
       "image": "https://via.placeholder.com/150?text=SwiftConf",
       "name": "SwiftConf",
       "description": "A Swift-focused conference in Cologne, Germany, featuring talks on Swift and iOS development.",
-      "dates": "7 - 8 August 2024",
+      "startDate": "2024-08-07T00:00:00Z",
+      "endDate": "2024-08-08T23:59:59Z",
       "addressShort": "Cologne, Germany",
       "addressFull": "Cologne, Germany (Venue TBD)",
       "location": {
@@ -290,7 +312,8 @@
       "image": "https://via.placeholder.com/150?text=ServerSideSwift",
       "name": "Server-Side Swift",
       "description": "A framework-independent, non-profit conference in London, focused on server-side Swift development and related topics.",
-      "dates": "26 - 27 September 2024",
+      "startDate": "2024-09-26T00:00:00Z",
+      "endDate": "2024-09-27T23:59:59Z",
       "addressShort": "London, United Kingdom",
       "addressFull": "London, United Kingdom (Venue TBD)",
       "location": {
@@ -303,7 +326,8 @@
       "image": "https://via.placeholder.com/150?text=DoIOS",
       "name": "Do iOS",
       "description": "A premier iOS developer conference in Amsterdam, featuring talks and workshops on iOS and Swift development.",
-      "dates": "13 - 14 November 2024",
+      "startDate": "2024-11-13T00:00:00Z",
+      "endDate": "2024-11-14T23:59:59Z",
       "addressShort": "Amsterdam, Netherlands",
       "addressFull": "Nemo Science Museum, Oosterdok 2, 1011 VX Amsterdam, Netherlands",
       "location": {
